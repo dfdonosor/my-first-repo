@@ -2,8 +2,7 @@
 
 ### Geography
 
-I live in the city of Medellin, in the state of Antioquia, in Colombia
-of America.
+I live in the city of Medellin, in the state of Antioquia, in Colombia.
 
 ### Reading
 
